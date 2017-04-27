@@ -1,2 +1,3 @@
 # greetings-globe
-test
+.Run some code in on a terrestrial branch (earth).
+ Later merge into master ...
