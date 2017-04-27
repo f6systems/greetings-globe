@@ -12,4 +12,5 @@ func init() {
 
 func main() {
 	fmt.Printf("Starting\n")
+	fmt.Printf("\tGreetings Globe\n")
 }
